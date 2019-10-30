@@ -1,35 +1,38 @@
-[
-  {
-    "title": "Marketing",
-    "users": [
-      { "title": "AARON" },
-      { "title": "JASON" },
-      { "title": "DENISE" },
-      { "title": "EDDIE" },
-      { "title": "ANDREW" },
-    ],
-    "delegates": []
-  },
-  {
-    "title": "Finance",
-    "users": [
-      { "title": "HAROLD" },
-      { "title": "JENNY" },
-      { "title": "WENDY" },
-      { "title": "KERRY" },
-      { "title": "ANNATHAN" },
-    ],
-    "delegates": []
-  },
-  {
-    "title": "IT",
-    "users": [
-      { "title": "RALPH" },
-      { "title": "PETER" },
-      { "title": "SEBASTIAN" },
-      { "title": "MIKE" },
-      { "title": "MURRAY" },
-    ],
-    "delegates": []
-  }
-]
+{
+  "status": "S",
+  "data": [
+    {
+      "title": "Marketing",
+      "users": [
+        { "title": "AARON" },
+        { "title": "JASON" },
+        { "title": "DENISE" },
+        { "title": "EDDIE" },
+        { "title": "ANDREW" }
+      ],
+      "delegates": []
+    },
+    {
+      "title": "Finance",
+      "users": [
+        { "title": "HAROLD" },
+        { "title": "JENNY" },
+        { "title": "WENDY" },
+        { "title": "KERRY" },
+        { "title": "ANNATHAN" }
+      ],
+      "delegates": []
+    },
+    {
+      "title": "IT",
+      "users": [
+        { "title": "RALPH" },
+        { "title": "PETER" },
+        { "title": "SEBASTIAN" },
+        { "title": "MIKE" },
+        { "title": "MURRAY" }
+      ],
+      "delegates": []
+    }
+  ]
+}
